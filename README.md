@@ -1,5 +1,5 @@
-# Bitrix Version Checker
-Simple script that checks year of bitrix version.
+# Bitrix version year identifier
+Bash script to identify the year of bitrix version being used by the target.
 
 ## Instalation
 ```
