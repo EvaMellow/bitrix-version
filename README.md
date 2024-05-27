@@ -8,7 +8,6 @@ wget https://raw.githubusercontent.com/EvardMellow/bitrix-version/main/bitrix-ve
 ## Usage
 ```
 ┌──(kali㉿kali)-[~]
-└─$ ./bitrix-version.sh https://domain.com/
-Possible versions:
->= 2021
+└─$ ./bitrix-version.sh https://example.org
+>=2021
 ```
