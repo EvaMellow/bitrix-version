@@ -28,4 +28,4 @@ for i in "${!files[@]}"; do
     fi
 done
 
-echo "No version year found"
+echo "No version year identified"
