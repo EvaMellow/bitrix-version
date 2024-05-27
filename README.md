@@ -1,14 +1,13 @@
-# Bitrix Version Checker
-Simple script that checks year of bitrix version.
+# Bitrix version year identifier
+Bash script to identify the year of bitrix version being used by the target based on the presence of ```.js``` files.
 
-## Instalation
+## Installation
 ```
 wget https://raw.githubusercontent.com/EvardMellow/bitrix-version/main/bitrix-version.sh && chmod +x bitrix-version.sh
 ```
 ## Usage
 ```
 ┌──(kali㉿kali)-[~]
-└─$ ./bitrix-version.sh https://domain.com/
-Possible versions:
->= 2021
+└─$ ./bitrix-version.sh https://example.org
+>=2021
 ```
